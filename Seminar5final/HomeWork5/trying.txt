@@ -1,0 +1,3 @@
+X O empty 
+X O empty 
+X empty X 
